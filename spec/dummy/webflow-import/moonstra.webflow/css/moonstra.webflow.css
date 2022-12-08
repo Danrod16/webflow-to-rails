@@ -1,0 +1,174 @@
+.w-embed-youtubevideo {
+  width: 100%;
+  position: relative;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/static/youtube-placeholder.2b05e7d68d.svg');
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.w-embed-youtubevideo:empty {
+  min-height: 75px;
+  padding-bottom: 56.25%;
+}
+
+.coming-soon-banner {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100vh;
+  padding: 0px;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #113054;
+}
+
+.banner-body {
+  display: block;
+  text-align: left;
+}
+
+.heading {
+  font-family: Inconsolata, monospace;
+  color: #fff;
+  font-size: 76px;
+  line-height: 80px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.paragraph {
+  color: #fff;
+  text-align: left;
+}
+
+.text-block {
+  background-color: rgba(255, 255, 255, 0);
+  font-family: Inconsolata, monospace;
+  color: #fff;
+  font-size: 76px;
+  line-height: 80px;
+}
+
+.mycontainer {
+  max-width: 1100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.div-block {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.right-side-banner {
+  width: 50vw;
+}
+
+.banner-content {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.form {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 21px;
+}
+
+.moonstra-form-field {
+  width: 250px;
+  height: 53px;
+  margin-right: 27px;
+  border-radius: 31px;
+}
+
+.button-primary {
+  width: 150px;
+  height: 53px;
+  border-radius: 40px;
+  background-color: #5e99c3;
+  box-shadow: 1px 1px 3px 0 rgba(10, 33, 60, 0.3);
+}
+
+.video-section {
+  position: relative;
+  right: 0px;
+  z-index: 4;
+  width: 1410px;
+  height: 100vh;
+  margin-top: -380px;
+  border-radius: 400061px 0px 300px 300px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.moonstra-card {
+  padding: 60px;
+  border-radius: 50px;
+  box-shadow: 7px 7px 10px 10px rgba(175, 174, 174, 0.3);
+}
+
+.heading-2 {
+  text-align: center;
+}
+
+.video-moonstra-section {
+  padding: 105px 0px;
+}
+
+.moonstra-card-title {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.moonstra-card-subtitle {
+  margin-bottom: 23px;
+  font-size: 16px;
+  text-align: center;
+}
+
+.youtube {
+  height: 370px;
+}
+
+.paragraph-2 {
+  margin-top: 50px;
+  font-size: 16px;
+}
+
+.moonstra-p {
+  margin-top: 0px;
+}
+
+.moonstra-p.mt-10 {
+  margin-top: 22px;
+  font-size: 16px;
+}
+
+.price-cards {
+  display: -ms-grid;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
